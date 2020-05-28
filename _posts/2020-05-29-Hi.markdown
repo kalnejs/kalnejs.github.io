@@ -7,4 +7,5 @@ excerpt_separator: <!--more-->
 ---
 Taking and inspiration from other enthusiasts and professions, I have
 decided to do my own Blog.<!--more--><br>
-This site will mainly contain projects about different topics in **Electronics**, **Embedded Software** and **FPGA**.
+This site will mainly contain projects about different topics in
+**Electronics**, **Embedded Software** and **FPGA**.
